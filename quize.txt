@@ -1,0 +1,25 @@
+1..What is the Capital of Australia?
+a)Sydney
+b)Melbourne
+c)Canberra
+d)Perth
+2..Who painted the Mona Lisa?
+a)Vincent Van Gogh
+b)Pablo Picasso
+c)Leonardo da Vinci
+d)Michelangelo
+3..Which planet is known as the "Red planet"?
+a)Venus
+b)Mars
+c)Jupiter
+d)Saturn
+4..Who wrote the play "Romeo and Juliet"?
+a)William Shakespeare
+b)Jane Austen
+c)Charles Dickens
+d)F.Scott Fitzgerald
+5..What is the currently of Japan?
+a)Yen
+b)Euro
+c)Dollar
+d)Rupee
